@@ -20,15 +20,15 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop-design-hero-page](https://user-images.githubusercontent.com/75619295/173892692-330d75fe-2f8a-48a5-bb89-860998cb45f3.jpg)
-![desktop-design-search-page](https://user-images.githubusercontent.com/75619295/173892700-dee8853c-11a0-40cd-91e0-7c845e88878d.jpg)
-![desktop-design-list-page](https://user-images.githubusercontent.com/75619295/173892700-dee8853c-11a0-40cd-91e0-7c845e88878d.jpg)
-![desktop-design-info-page](https://user-images.githubusercontent.com/75619295/173892700-dee8853c-11a0-40cd-91e0-7c845e88878d.jpg)
+![desktop-design-hero-page](https://user-images.githubusercontent.com/75619295/175912230-4e661ad5-d8fd-47f0-847f-b8871eb18cf9.png)
+![desktop-design-search-page](https://user-images.githubusercontent.com/75619295/175912430-037110af-ef27-405a-a006-fb559f65b22c.png)
+![desktop-design-list-page](https://user-images.githubusercontent.com/75619295/175912632-cee31ba6-45ca-47be-ac3f-2804448b0a0b.png)
+![desktop-design-info-page](https://user-images.githubusercontent.com/75619295/175912653-11df6833-2523-4f9b-a21f-005f8166678c.png)
 
 ### Links
 
-- Solution URL: (https://github.com/Shall-Fade/todo-app)
-- Live Site URL: (https://shall-fade.github.io/todo-app/)
+- Solution URL: (https://github.com/Shall-Fade/anilist-app)
+- Live Site URL: (https://shall-fade.github.io/anilist-app/)
 
 ## My process
 
