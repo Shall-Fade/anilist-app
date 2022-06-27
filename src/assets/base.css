@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap");
+:root {
+  --c-black: #000;
+  --c-studio-blue: #4895ef;
+  --c-episodes-turquoise: #ffeedd;
+
+  /* Score Colors */
+  --c-score-good: #b4e6a0;
+  --c-score-neutral: #ffe17e;
+  --c-score-bad: #db357e;
+
+  /* Button Colors */
+  --c-btn-red: #a64550;
+  --c-btn-red-hover: #ce515f;
+
+  /* Background Colors */
+  --c-bg-black: #292929;
+  --c-bg-navbar: #303030;
+  --c-bg-search: #545454;
+  --c-bg-genre: #706677;
+
+  /* Text Colors */
+  --c-white: #ffffff;
+  --c-text-white: #cacaca;
+
+  /* Status Colors */
+  /* Finished */
+  --c-status-finished: #00ff38;
+  /* Announcement */
+  --c-status-announcement: #f72585;
+  /* Ongoing */
+  --c-status-ongoing: #4cc9f0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--c-text-white);
+  background: var(--c-bg-black);
+  transition: color 0.5s, background-color 0.5s;
+  line-height: 1.6;
+  font-family: "Rubik", sans-serif;
+  font-size: 18px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Desktop wrapper */
+.wrapper {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+button {
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+input,
+select {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: var(--c-text-white);
+}
+
+/* Класс активности при совпадении маршрута */
+.router-link-active {
+  color: var(--c-white);
+}
+
+.base-modal-image {
+  width: 32px;
+  height: 32px;
+}
