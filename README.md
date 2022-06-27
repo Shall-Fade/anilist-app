@@ -20,9 +20,13 @@ Users should be able to:
 
 ### Screenshot
 
+#### Main page
 ![desktop-design-hero-page](https://user-images.githubusercontent.com/75619295/175912230-4e661ad5-d8fd-47f0-847f-b8871eb18cf9.png)
+#### Page with search and filtering
 ![desktop-design-search-page](https://user-images.githubusercontent.com/75619295/175912430-037110af-ef27-405a-a006-fb559f65b22c.png)
+#### Page with the list of watched anime
 ![desktop-design-list-page](https://user-images.githubusercontent.com/75619295/175912632-cee31ba6-45ca-47be-ac3f-2804448b0a0b.png)
+#### Page with full information about the anime
 ![desktop-design-info-page](https://user-images.githubusercontent.com/75619295/175912653-11df6833-2523-4f9b-a21f-005f8166678c.png)
 
 ### Links
@@ -38,6 +42,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Grid
+- [Jikan API](https://jikan.moe) - Unofficial MyAnimeList API
 - [Axios](https://axios-http.com) - Promise Based HTTP Client For The Browser
 - [VUE](https://vuejs.org) - JS Framework
 - [Vite](https://vitejs.dev) - Frontend Tooling
@@ -67,7 +72,7 @@ In the future, you need to:
 - GitHub - [@Shall-Fade](https://github.com/Shall-Fade)
 - Frontend Mentor - [@Shall-Fade](https://www.frontendmentor.io/profile/Shall-Fade)
 - VK - [@Marat Chochaev](https://vk.com/0another0)
-- Telegram - [@Marat](https://t.me/another_rn)
+- Telegram - [@Marat Chochaev](https://t.me/another_rn)
 
 ## Conclusion
 
